@@ -2,7 +2,7 @@ name: Test Python App
 
 on:
   push:
-    branches: [ '*' ]
+    branches: [ 'dev' ]
 
 jobs:
   ci:
